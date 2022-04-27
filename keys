@@ -1,0 +1,50 @@
+<html>
+
+<h1>A Thief in the Night</h1>
+
+<body>
+
+<!--Continued-->
+
+<p>Looks like their were keys under the mat</P>
+
+
+<img src="eatingfromfridge.jpg"height="500"img class="center"></br>
+
+<p>Unlock the door quietly...</p></br>
+
+
+<!--reset-->
+<a href="athiefinthenight.html"><img src="startover.png"width="50"height="50"img class="left"></a>
+
+
+
+<!--CSS Styling here-->
+
+<style>
+p {
+  text-align: center;
+  color: black;
+}
+
+h1 {
+  text-align: center;
+  color: black;
+}
+
+.left {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+</style>
+
+  </body>
